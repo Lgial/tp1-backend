@@ -27,16 +27,16 @@ class Usuario {
 }
 
 const usuario = new Usuario("Leandro","Giardelli",
-                            [{nombre : "Kyra",
+                            [{name : "Kyra",
                               autor : "Anonimo"
                             },
-                            {nombre : "Sultan",
+                            {name : "Sultan",
                              autor : "Unknown"
                             },
-                            {nombre : "Lowen",
+                            {name : "Lowen",
                              autor : "Anonimo"
                             },
-                            {nombre : "Sumo",
+                            {name : "Sumo",
                              autor : "Unknown"
                             }],
                             ["Dog", "Cat", "Bear", "Shark"]
